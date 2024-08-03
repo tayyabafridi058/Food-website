@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <header>
         <nav>
-            <img src="../src/assest/food.png" alt="food" />
+            <img src="../src/assest/logggo.png" alt="food" />
             <ul>
                 <a href="#"><li>Home</li></a>
                 <a href="#"><li>About</li></a>
