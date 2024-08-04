@@ -208,5 +208,14 @@ footer {
   .food-content {
     grid-template-columns: repeat(1, 1fr);
   }
-  
+  .home-content {
+    margin: 0px 2%;
+  }
+  .food-content {
+    margin: 0px 2%;
+
+  }
+  .food-menu-content {
+    margin: 0px 2%;
+  }
 }
