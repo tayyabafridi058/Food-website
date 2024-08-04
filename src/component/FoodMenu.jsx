@@ -16,7 +16,7 @@ function FoodMenu() {
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
             <div className="card-cont">
-              <h3>Food Title</h3>
+              <h3>Nice Barger</h3>
               <h3>$2.3</h3>
               <p>Lorem ipsum dolor.</p>
               <button>Order Now</button>
