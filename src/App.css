@@ -145,7 +145,14 @@ footer {
   height: 60px;
   text-align: center;
 }
+.social {
+  display: flex;
 
+}
+.social img {
+  width: 40px;
+  height: 40px;
+}
 @media screen and (max-width: 1000px) {
   .home-content {
     margin: 0px 7%;
