@@ -1,5 +1,11 @@
 import React from "react";
 import "../App.css";
+import imgOne from "../assest/qqq.jpeg"
+import imgtwo from "../assest/eee.jpeg"
+import imgthree from "../assest/ff.jpeg"
+import imgfour from "../assest/fffff.jpeg"
+import imgfive from "../assest/rrr.jpeg"
+import imgsix from "../assest/qqq.jpeg"
 
 function FoodMenu() {
   return (
@@ -11,7 +17,7 @@ function FoodMenu() {
 
           <div className="menu-card">
             <img
-              src="../src/assest/qqq.jpeg"
+              src={imgOne}
               alt="back"
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
@@ -27,7 +33,7 @@ function FoodMenu() {
 
           <div className="menu-card">
             <img
-              src="../src/assest/eee.jpeg"
+              src={imgtwo}
               alt="back"
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
@@ -43,7 +49,7 @@ function FoodMenu() {
 
           <div className="menu-card">
             <img
-              src="../src/assest/ff.jpeg"
+              src={imgthree}
               alt="back"
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
@@ -59,7 +65,7 @@ function FoodMenu() {
 
           <div className="menu-card">
             <img
-              src="../src/assest/fffff.jpeg"
+              src={imgfour}
               alt="back"
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
@@ -75,7 +81,7 @@ function FoodMenu() {
 
           <div className="menu-card">
             <img
-              src="../src/assest/rrr.jpeg"
+              src={imgfive}
               alt="back"
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
@@ -91,7 +97,7 @@ function FoodMenu() {
 
           <div className="menu-card">
             <img
-              src="../src/assest/qqq.jpeg"
+              src={imgsix}
               alt="back"
               style={{ width: "110px", height: "110px", borderRadius: "12px" }}
             />
